@@ -195,6 +195,7 @@ ff02::3 ip6-allhosts
 0.0.0.0	nomadfunclub.com
 0.0.0.0	onixcellent.com
 0.0.0.0 pndsn.com
+0.0.0.0 pubnubapi.com
 0.0.0.0	puckhunterrr.com
 0.0.0.0	pudgeee.com
 0.0.0.0	qascker.com
