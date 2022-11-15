@@ -30,10 +30,12 @@ ff02::3 ip6-allhosts
 
 0.0.0.0	aaatus.com
 0.0.0.0	actionshunter.com
+0.0.0.0 amejer177.in
 0.0.0.0	api.ipify.org
 0.0.0.0	avrenew.com
 0.0.0.0	ayechecker.com
 0.0.0.0	ayiyas.com
+0.0.0.0 babolk1.com
 0.0.0.0	backup1helper.com
 0.0.0.0	backup1master.com
 0.0.0.0	backup1service.com
@@ -48,6 +50,7 @@ ff02::3 ip6-allhosts
 0.0.0.0	backup-simple.com
 0.0.0.0	bakcup-checker.com
 0.0.0.0	bakcup-monster.com
+0.0.0.0 befunegit.com
 0.0.0.0	best-backup.com
 0.0.0.0	best-nas.com
 0.0.0.0	bestservicehelper.com
@@ -81,11 +84,13 @@ ff02::3 ip6-allhosts
 0.0.0.0	cmdupdatewin.com
 0.0.0.0	comssite.com
 0.0.0.0	conhostservice.com
+0.0.0.0 cvfkdot.com
 0.0.0.0	cylenceprotect.com
 0.0.0.0	daggerclip.com
 0.0.0.0	debug-service.com
 0.0.0.0	defenswin.com
 0.0.0.0	developmasters.com
+0.0.0.0 digitaloceanspaces.com
 0.0.0.0	dotmaingame.com
 0.0.0.0	driver1downloads.com
 0.0.0.0	driver1master.com
@@ -98,6 +103,7 @@ ff02::3 ip6-allhosts
 0.0.0.0	eighthservicehelper.com
 0.0.0.0	eighthserviceupdater.com
 0.0.0.0	eithtservice-developer.com
+0.0.0.0 elemtor.cloud
 0.0.0.0	elephantdrrive.com
 0.0.0.0	eleventhservicehelper.com
 0.0.0.0	eleventhserviceupdater.com
@@ -112,6 +118,7 @@ ff02::3 ip6-allhosts
 0.0.0.0	firstserviceupdater.com
 0.0.0.0	firstservisehelper.com
 0.0.0.0	firsttus.com
+0.0.0.0 fleek.co
 0.0.0.0	fourservicehelper.com
 0.0.0.0	fourteenthservicehelper.com
 0.0.0.0	fourthservice-developer.com
@@ -121,6 +128,7 @@ ff02::3 ip6-allhosts
 0.0.0.0	gameleaderr.com
 0.0.0.0	getinformationss.com
 0.0.0.0	giveasees.com
+0.0.0.0 gororama.com
 0.0.0.0	greattus.com
 0.0.0.0	gtrsqer.com
 0.0.0.0	gungameon.com
@@ -152,6 +160,7 @@ ff02::3 ip6-allhosts
 0.0.0.0	ipinfo.io
 0.0.0.0	jomamba.best
 0.0.0.0	jonsonsbabyy.com
+0.0.0.0 jugoj.com
 0.0.0.0	kostunivo.com
 0.0.0.0	kungfupandasa.com
 0.0.0.0	lindasak.com
@@ -185,6 +194,7 @@ ff02::3 ip6-allhosts
 0.0.0.0	ninthservicehelper.com
 0.0.0.0	nomadfunclub.com
 0.0.0.0	onixcellent.com
+0.0.0.0 pndsn.com
 0.0.0.0	puckhunterrr.com
 0.0.0.0	pudgeee.com
 0.0.0.0	qascker.com
